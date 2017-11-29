@@ -55,5 +55,6 @@ module.exports = {
         historyApiFallback:true,
         inline:true,
         hot:true,
+        port:"8088"
     }
 }
